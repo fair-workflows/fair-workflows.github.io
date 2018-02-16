@@ -55,7 +55,7 @@ Theme Styles
 body {
   box-sizing: border-box;
   color:#373737;
-  background: #ff4000;
+  background: #ffb600;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   text-align: justify;
@@ -109,7 +109,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #ff4000;
+  color: #dd2020;
 }
 
 a.doc {
@@ -125,7 +125,7 @@ a.doc {
 }
      
 #main_content a:hover {
-  color: #882000;
+  color: #880000;
 }
 
 a.doc:hover {
@@ -133,7 +133,7 @@ a.doc:hover {
 }
 
 footer a:hover {
-  color: #882000;
+  color: #880000;
 }
 
 em {
@@ -275,7 +275,7 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: #ff4000;
+  background: #ffb600;
 }
 
 #header_wrap .inner {
@@ -293,6 +293,11 @@ Full-Width Styles
   margin: 0;
 }
 
+.header_text_2 {
+  color: #222;
+  margin: 0;
+}
+
 #main_content_wrap {
   min-height: 500px;
   background: #ffffff;
@@ -304,7 +309,7 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: #ff4000;
+  background: #ffb600;
 }
 
 
