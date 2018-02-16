@@ -109,7 +109,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #008492;
+  color: #ff4000;
 }
 
 a.doc {
@@ -125,7 +125,7 @@ a.doc {
 }
      
 #main_content a:hover {
-  color: #00a0b0;
+  color: #882000;
 }
 
 a.doc:hover {
@@ -133,7 +133,7 @@ a.doc:hover {
 }
 
 footer a:hover {
-  color: #00a0b0;
+  color: #882000;
 }
 
 em {
