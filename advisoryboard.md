@@ -12,3 +12,4 @@ navigation_weight: 10
 - Mark Wilkinson (UPM, Madrid)
 - Barend Mons (Leiden University)
 - Maarten Fröhlich (IOS Press)
+- Hala Skaf-Molli (Nantes University)
