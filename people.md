@@ -5,7 +5,11 @@ navigation_weight: 8
 ---
 
 ### Michel Dumontier, Maastricht University
-
-### Tobias Kuhn, VU Amsterdam
-
 ### Harald Schmidt, Maastricht University
+### Remzi Celebi, Maastricht University
+### Ahmed Hassan, Maastricht University
+### Tobias Kuhn, VU Amsterdam
+### João Moreira, VU Amsterdam
+### Lars Ridder, Netherlands eScienceCenter
+### Valentina Maccatrozzo, Netherlands eScienceCenter
+### Carlos Martinez, Netherlands eScienceCenter
